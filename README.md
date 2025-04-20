@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayan-Pradhan
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Java and Web developement.
+- 🌱 I’m currently learning Spring Boot and React.
 
 <!---
 Ayan-Pradhan/Ayan-Pradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
